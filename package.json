@@ -1,0 +1,15 @@
+{
+  "name": "diazpatricio-pixel-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Patricio diaz",
+  "license": "ISC",
+  "homepage": "https://patrocx.github.io/pixelArt",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
